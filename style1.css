@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background: rgb(15, 15, 15);
+    border-radius: 6px;
+    color: white;
+}
+.container{
+   padding: 23px;
+   margin-top:80px
+}
+header{
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+header h1{
+    color: rgb(230, 191, 20);
+}
+header p{
+    margin: 16px;
+}
+section input{
+    margin: 10px;
+    text-align: justify;
+}
+input[type=tel]{
+    margin-left: 60px;
+}
+strong{
+    color: rgb(230, 191, 20);
+}
+.type{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: rgb(230, 191, 20);
+}
+section button{
+    margin: 5px;
+    background: rgba(38, 41, 226, 0.774);
+    color: rgb(255, 255, 255);
+    padding: 4px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+}
